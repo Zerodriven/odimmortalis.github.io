@@ -1,6 +1,7 @@
-html {
-background-color:#000000;
-margin:0px;
-border:0px;
+html, body {
+background-color: black;
 }
 
+p {
+color: green;
+}
